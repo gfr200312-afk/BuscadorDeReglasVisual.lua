@@ -1,0 +1,1 @@
+# BuscadorDeReglasVisual.lua
